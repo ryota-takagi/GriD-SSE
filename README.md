@@ -1,5 +1,5 @@
 # GriD-SSE
 
-Grid-based Determination of Slow Slip Events
+- Grid-based Determination of Slow Slip Events
 
-Reference: Takagi, R., Naoki, U., and Obara, K. 
+- Reference: Takagi, R., Naoki, U., and Obara, K. 
