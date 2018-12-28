@@ -1,7 +1,4 @@
 # GriD-SSE
-Autor: Ryota Takagi
-
-## Description
 Fortran module for GriD-based Determination of Slow Slip Events.
 
 ## Dependency
