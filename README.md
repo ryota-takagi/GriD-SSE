@@ -1,5 +1,5 @@
 # GriD-SSE
-Fortran module for GriD-based Determination of Slow Slip Events.
+Fortran module for Grid-based Determination of Slow Slip Events.
 
 ## Dependency
 - Lapack
